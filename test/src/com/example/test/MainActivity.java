@@ -7,6 +7,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
+	TextView txt1;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
