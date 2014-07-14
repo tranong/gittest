@@ -9,6 +9,8 @@ public class MainActivity extends Activity {
 
 	TextView txt1;
 	
+	TextView txt;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
